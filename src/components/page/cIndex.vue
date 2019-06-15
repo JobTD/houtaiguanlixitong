@@ -3,9 +3,9 @@
    <div class='nav'>
      <div class="tou">
        <div class="nc">{{name|numFilter}}
-         <div class='td' @click='tui()'>退出登录</div>
+         <div class='td' @click='tui()'>退出 登录</div>
        </div>
-       <div class="tx"><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3913721637,490556209&fm=27&gp=0.jpg" alt=""></div>
+       <div class="tx"><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3913721637,490556209&fm=27&gp=0.jpg"></div>
      </div>
    </div>
    <div class='content'>
